@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Megha1005.github.io/my-app/static/css/main.4a195fe7.chunk.css",
+    "main.js": "/Megha1005.github.io/my-app/static/js/main.16871408.chunk.js",
+    "main.js.map": "/Megha1005.github.io/my-app/static/js/main.16871408.chunk.js.map",
+    "runtime-main.js": "/Megha1005.github.io/my-app/static/js/runtime-main.101e2109.js",
+    "runtime-main.js.map": "/Megha1005.github.io/my-app/static/js/runtime-main.101e2109.js.map",
+    "static/js/2.6d013ad0.chunk.js": "/Megha1005.github.io/my-app/static/js/2.6d013ad0.chunk.js",
+    "static/js/2.6d013ad0.chunk.js.map": "/Megha1005.github.io/my-app/static/js/2.6d013ad0.chunk.js.map",
+    "index.html": "/Megha1005.github.io/my-app/index.html",
+    "precache-manifest.d8a9dcc6486775a40782ea5cbb7382b3.js": "/Megha1005.github.io/my-app/precache-manifest.d8a9dcc6486775a40782ea5cbb7382b3.js",
+    "service-worker.js": "/Megha1005.github.io/my-app/service-worker.js",
+    "static/css/main.4a195fe7.chunk.css.map": "/Megha1005.github.io/my-app/static/css/main.4a195fe7.chunk.css.map",
+    "static/js/2.6d013ad0.chunk.js.LICENSE.txt": "/Megha1005.github.io/my-app/static/js/2.6d013ad0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Megha1005.github.io/my-app/static/media/back.e448a28d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.101e2109.js",
+    "static/js/2.6d013ad0.chunk.js",
+    "static/css/main.4a195fe7.chunk.css",
+    "static/js/main.16871408.chunk.js"
+  ]
+}
