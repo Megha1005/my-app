@@ -2,8 +2,6 @@ import React, { useEffect , useState } from 'react';
 import './App.css';
 import Currencybox from './Currencybox';
 import { BsArrowUpDown } from "react-icons/bs";
-import AboutUs from "./AboutUs";
-import { Switch, Route } from 'react-router-dom';
 
 const url ="https://api.exchangeratesapi.io/latest";
 
@@ -77,16 +75,7 @@ function App() {
   let currentRate = `${parseFloat(fromAmount).toFixed(2)} ${fromCurrency} = ${parseFloat(toAmount).toFixed(2)} ${toCurrency}`
   return (
     //  need Fragment to run the code : <> and </>
-
-      
-
-      <>
-        <Switch>
-        <div>
-          <Route path='/AboutUS' component={AboutUs}/>
-        </div>
-        </Switch>
-    <div>
+    <>
       <div className="container-1"><h1> Currency Converter</h1></div>
       <div className="container-2">
        <div className="text"> <p><h2>Enter the amount to convert</h2></p></div>
@@ -110,7 +99,7 @@ function App() {
         <p>{currentRate}</p>
     </div>
 
- </>
+    </>
 
   );
 }
