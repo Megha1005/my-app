@@ -1,4 +1,4 @@
-# CYC-ConvertYourCurrency-
+# CYC-ConvertYourCurrency
 
 
 Built as a part of MintBean Hackathon
