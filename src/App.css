@@ -1,0 +1,93 @@
+h1{
+  margin: 0;
+  margin-top: 0.5rem;
+  margin-bottom: 0.7rem;
+  color:white;
+  font-size: 3rem;
+}
+
+h2{
+  margin: 0;
+  margin-top: 0.5rem;
+  margin-bottom: 0.7rem;
+  color:black;
+  font-size: 1.7rem;
+  font-style: italic;
+}
+
+.input{
+  border: 1.5px solid #333333;
+  border-width: 3px;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  width: 15rem;
+  height: 2rem;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.container-1{
+  border: 0.5rem solid;
+  border-radius: 2rem;
+  border-color: #333333;
+  color:black;
+  background-color:rgb(123, 123, 211);
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.container-2{
+  border: 0.5rem solid;
+  border-radius: 1rem;
+  border-color: #333333;
+  color:black;
+  background-color:white;
+  padding: 0.5rem;
+  height: 40rem;
+}
+
+.text{
+  height: 5rem;
+}
+
+.equals{
+  height: 5rem ;
+  font-weight: 5.5rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  color:#555555;
+  font-size: 35rem ;
+  font-style: solid;
+}
+
+select{
+  margin-left: 0.5rem;
+  border:2px solid black;
+  border-radius: 0.5rem;
+  width: 12rem;
+  height: 4rem;
+  background-color:rgb(123, 123, 211);
+  margin-top: 0.7rem;
+  text-indent: 4rem;
+}
+
+.box{
+  background-color:plum;
+  margin: 20 20;
+  margin-bottom: 20rem;
+  border: 1px solid #333333;
+  border-width: 2px;
+  border-radius: 0.5rem;
+  text-indent: 4rem;
+}
+
+body{
+  background-image: url(./images/back.jpg);
+  margin:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
