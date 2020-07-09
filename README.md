@@ -7,6 +7,8 @@ Used API : exchangeratesapi.io to get the currency rates
 
 Technology Used : Reactjs
 
+Code deployed here : http://testcurrency.s3-website-us-west-2.amazonaws.com/
+
 ------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
